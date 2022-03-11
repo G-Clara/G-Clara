@@ -1,6 +1,7 @@
 <h1 align="center">Salut 👋, Je suis Clara GOEPP</h1>
 
--J'étudie à l'IUT de Haguenau
+-J'étudie à **l'IUT de Haguenau**
+
 -J'apprend **le codage, la communication numérique et le design**
 
 <h3 align="left">Où me trouver:</h3>
